@@ -12,6 +12,10 @@ Tarea del curso *Ciencia de datos con Python* (Universidad del Pacífico) · Ret
 2. **72 % del área quemada tiene severidad moderada-alta o alta**, y el 100 % está en el distrito de Manantay (UBIGEO 250107).
 3. **Ucayali registra 812 focos entre el 2026-10-14 y el 2026-10-20**, +130 % frente al promedio de esas fechas en 2012-2025 (353); 2026 ocupa el puesto 2 de 15 (el máximo fue 1346 focos en 2024). A nivel nacional la variación es +97 % (puesto 2 de 15). Departamentos en récord esa semana: Junin, Cusco, Apurimac, Ancash, Arequipa, Huancavelica, Moquegua, Ica, Tacna.
 
+## Dashboard
+
+https://rociobecerril.github.io/incendios-manantay/
+
 ## Mapa
 
 ![Severidad dNBR](outputs/mapa_dnbr.png)

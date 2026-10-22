@@ -40,6 +40,10 @@ Tarea del curso *Ciencia de datos con Python* (Universidad del Pacífico) · Ret
 2. **{pct_alta:.0f} % del área quemada tiene severidad moderada-alta o alta**, y el {pct_top:.0f} % está en el distrito de {top['distrito'].title()} (UBIGEO {top['ubigeo']}).
 3. **Ucayali registra {r['focos_2026']:,} focos entre el {r['ventana'][0]} y el {r['ventana'][1]}**, {signo}{r['variacion_pct']:.0f} % frente al promedio de esas fechas en 2012-2025 ({r['promedio_2012_2025']:,.0f}); 2026 {record_txt}. A nivel nacional la variación es {signo_pe}{r['peru_variacion_pct']:.0f} % (puesto {r['peru_puesto_2026_de_15']} de 15). Departamentos en récord esa semana: {deps_record}.
 
+## Dashboard
+
+https://rociobecerril.github.io/incendios-manantay/
+
 ## Mapa
 
 ![Severidad dNBR](outputs/mapa_dnbr.png)
