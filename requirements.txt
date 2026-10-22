@@ -1,0 +1,11 @@
+pandas
+numpy
+scipy
+requests
+geopandas>=1.0
+shapely>=2.0
+matplotlib
+rasterio
+pystac-client
+planetary-computer
+odc-stac

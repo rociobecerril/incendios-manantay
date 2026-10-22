@@ -1,0 +1,13 @@
+{
+  "fecha_antes": "2026-09-21",
+  "nubes_antes_pct": 0.9,
+  "fecha_despues": "2026-10-16",
+  "nubes_despues_pct": 10.4,
+  "aoi_ha": 5879.0,
+  "aoi_medible_pct": 85.9,
+  "umbral": 0.27,
+  "ha_quemadas": 883.4,
+  "ha_quemadas_umbral_0_10": 2187.8,
+  "ha_quemadas_umbral_0_44": 635.9,
+  "dnbr_mediana_quemado": 0.566
+}

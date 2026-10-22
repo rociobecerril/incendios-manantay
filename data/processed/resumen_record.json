@@ -1,0 +1,28 @@
+{
+  "ventana": [
+    "2026-10-14",
+    "2026-10-20"
+  ],
+  "focos_2026_quitados_por_fuente_fija": 67,
+  "departamento": "UCAYALI",
+  "focos_2026": 812,
+  "promedio_2012_2025": 353.4,
+  "variacion_pct": 130.0,
+  "puesto_2026_de_15": 2,
+  "max_previo": 1346,
+  "anio_max_previo": 2024,
+  "peru_focos_2026": 3294,
+  "peru_variacion_pct": 97.0,
+  "peru_puesto_2026_de_15": 2,
+  "departamentos_en_record": [
+    "JUNIN",
+    "CUSCO",
+    "APURIMAC",
+    "ANCASH",
+    "AREQUIPA",
+    "HUANCAVELICA",
+    "MOQUEGUA",
+    "ICA",
+    "TACNA"
+  ]
+}

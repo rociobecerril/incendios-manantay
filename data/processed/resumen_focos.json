@@ -1,0 +1,14 @@
+{
+  "distrito": "MANANTAY",
+  "focos_7d_cerca": 209,
+  "incendios_detectados_cerca": 59,
+  "focos_incendio": 54,
+  "primer_foco": "2026-10-15 06:33:00+00:00",
+  "ultimo_foco": "2026-10-16 18:49:00+00:00",
+  "frp_total_mw": 693.9,
+  "aoi_ha": 5879.1,
+  "ventana_7d": [
+    "2026-10-14",
+    "2026-10-21"
+  ]
+}
